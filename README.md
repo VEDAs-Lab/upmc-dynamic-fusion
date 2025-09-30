@@ -1,1 +1,5 @@
-# upmc-dynamic-fusion
+# Adaptive Multimodal Fusion: Enhancing Food Classification Accuracy through Visual and Textual Data Integration
+
+## Introduction
+Food classification plays a pivotal role in promoting personalized and healthy dietary choices. This study introduces a novel multimodal food recognition framework that effectively integrates visual and textual data to enhance classification accuracy and robustness. Leveraging a dynamic multimodal fusion strategy, our approach adaptively combines features from unimodal visual inputs and complementary textual metadata. This fusion mechanism maximizes the utilization of informative content while mitigating the adverse impact of missing or inconsistent modality data. Evaluated on the UPMC Food-101 dataset, our model achieved unimodal classification accuracies of 73.60% for images and 88.42% for text. When both modalities were fused, the model attained an accuracy of 97.84%, outperforming several state-of-the-art methods. Here, we demonstrate the practical applicability of our framework to real-world multimodal food recognition scenarios, highlighting its robustness, adaptability, and computational efficiency.
+
